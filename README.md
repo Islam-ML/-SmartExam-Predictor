@@ -1,5 +1,4 @@
 # 🎓 SmartExam Predictor
-
 #إثشق
 ## Description
 SmartExam Predictor is a machine learning project that predicts student exam scores based on their daily habits, lifestyle, and personal factors.  
