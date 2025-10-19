@@ -1,6 +1,7 @@
 # 🎓 SmartExam Predictor
-#Author: Islam Abdul Rahim
-#year :2025
+
+Author: Islam Abdul Rahim\n
+year :2025
 #إ#
 #إثشق
 ## Description
